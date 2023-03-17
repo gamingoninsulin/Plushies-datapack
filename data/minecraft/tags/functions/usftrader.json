@@ -1,0 +1,19 @@
+{
+ "values": [
+   "usftrader:trades/trades_common",
+   "usftrader:trades/trades_rare",
+   "usftrader:trades/trades_epic",
+   
+   
+   "plushies:trades/epic/looney_toons/bugs_bunny",
+   "plushies:trades/epic/looney_toons/bugs_bunny_jotato",
+   "plushies:trades/epic/looney_toons/tazmanian_devil",
+   "plushies:trades/epic/looney_toons/marvin_the_martian",
+   "plushies:trades/epic/looney_toons/daffy_duck",
+   "plushies:trades/epic/looney_toons/lola_bunny",
+   "plushies:trades/epic/looney_toons/porky_pig",
+   "plushies:trades/epic/looney_toons/sylvester",
+   "plushies:trades/epic/looney_toons/tweety",
+   "plushies:trades/epic/looney_toons/yosemite_sam"
+ ]
+}

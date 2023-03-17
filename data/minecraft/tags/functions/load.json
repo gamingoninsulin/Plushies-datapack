@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "plushies:core/load",
+		"usftrader:load"
+    ]
+}

@@ -1,0 +1,2 @@
+execute as @a at @s if entity @p[nbt=!{Inventory:[{id:"minecraft:player_head"},{tag:{display: {Name: '"text":"Modern Lamp","color": "yellow"'}}}]} ] run
+execute as @a at @a[predicate=customheads:player_sneaking] if block ~ ~-0.35 ~ minecraft:amethyst_block run
