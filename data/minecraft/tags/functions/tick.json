@@ -2,6 +2,8 @@
     "replace": false,
     "values": [
         "plushies:core/tick",
-		"usftrader:tick"
+		"usftrader:tick",
+        "plushies:core/repeat_schdule",
+        "plushies:core/if_not_give_mojo_mall_sample"
     ]
 }
