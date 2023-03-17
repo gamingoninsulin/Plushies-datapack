@@ -4,7 +4,59 @@
    "usftrader:trades/trades_rare",
    "usftrader:trades/trades_epic",
    
+
+   "common",
+
+   "plushies:trades/common/minecraft/salt_and_pepper_rabbit",
+   "plushies:trades/common/minecraft/sniffer",
+   "plushies:trades/common/minecraft/glow_squid",
+   "plushies:trades/common/minecraft/allay",
+   "plushies:trades/common/minecraft/moobloom",
+   "plushies:trades/common/minecraft/muddy_pig",
+   "plushies:trades/common/minecraft/glare",
+   "plushies:trades/common/minecraft/chicken",
+   "plushies:trades/common/minecraft/arch_immager",
+   "plushies:trades/common/minecraft/copper_golem",
+   "plushies:trades/common/minecraft/iceloger",
+   "plushies:trades/common/minecraft/warden",
+   "plushies:trades/common/minecraft/enderman",
+   "plushies:trades/common/minecraft/fox",
+
+
+      "common-pokemon",
+
+      "plushies:trades/common/pokemon/common/pikachu",
+      "plushies:trades/common/pokemon/common/haunter",
+      "plushies:trades/common/pokemon/common/bulbasaur",
+      "plushies:trades/common/pokemon/common/charmander",
+      "plushies:trades/common/pokemon/common/staryu",
+      "plushies:trades/common/pokemon/common/caterpie",
+      "plushies:trades/common/pokemon/common/eevee",
+      "plushies:trades/common/pokemon/common/magikarp",
+      "plushies:trades/common/pokemon/common/rattata",
+      "plushies:trades/common/pokemon/common/jigglypuff",
+      "plushies:trades/common/pokemon/common/gyarados",
+
+
+      "legendary-pokemon",
+
+      "plushies:trades/common/pokemon/legendary/mewtwo",
+      "plushies:trades/common/pokemon/legendary/landorus",
+      "plushies:trades/common/pokemon/legendary/tundurus",
+      "plushies:trades/common/pokemon/legendary/nihilego",
+      "plushies:trades/common/pokemon/legendary/chien-pao",
+      "plushies:trades/common/pokemon/legendary/koraidon",
+      "plushies:trades/common/pokemon/legendary/miraidon",
+      "plushies:trades/common/pokemon/legendary/groudon",
    
+
+  "rare",
+
+   
+  
+  
+  "epic",
+     
    "plushies:trades/epic/looney_toons/bugs_bunny",
    "plushies:trades/epic/looney_toons/bugs_bunny_jotato",
    "plushies:trades/epic/looney_toons/tazmanian_devil",
@@ -15,5 +67,8 @@
    "plushies:trades/epic/looney_toons/sylvester",
    "plushies:trades/epic/looney_toons/tweety",
    "plushies:trades/epic/looney_toons/yosemite_sam"
+
+
+  
  ]
 }

@@ -18,7 +18,3 @@ execute unless score #horse_jump usftrader matches 1 run summon minecraft:armor_
 
 #Kelp
 execute unless score #kelp usftrader matches 1 run summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{tag:{usftrader:[{buy:{id:"minecraft:emerald",Count:5b},sell:{id:"minecraft:kelp",Count:8b}}]},id:"minecraft:emerald",Count:1b}],Tags:["usftrader_randomtrade_common"],NoGravity:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,NoBasePlate:1b,PersistenceRequired:1b}
-
-#Bone Dust
-execute unless score #bone_dust usftrader matches 1 run summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{tag:{usftrader:[{buy:{id:"minecraft:emerald",Count:2b},sell:{id:"minecraft:ghast_spawn_egg",Count:2b,tag:{display:{Name:'{"text":"Bone Dust","color":"yellow","italic":false}',Lore:['{"text":"Chance to spread Flowers","color":"gray","italic":false}']},CustomModelData:4024115,usftrader_bone_dust:1b,EntityTag:{id:"minecraft:area_effect_cloud",Radius:0.0f,Duration:2147483646,Tags:["usftrader_bone_dust"]}}}}]},id:"minecraft:emerald",Count:1b}],Tags:["usftrader_randomtrade_common"],NoGravity:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,NoBasePlate:1b,PersistenceRequired:1b}
-
