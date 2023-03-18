@@ -6,5 +6,9 @@ scoreboard objectives add first_join trigger "join"
 
 scoreboard objectives add sample custom:interact_with_crafting_table "mojo_sample"
 
+
 # function plushies:core/if_not_give_mojo_mall_sample
 # function plushies:tell_info/tell_intro_to_chat
+
+function plushies:core/if_not_give_mojo_mall_sample
+function plushies:tell_info/tell_intro_to_chat
